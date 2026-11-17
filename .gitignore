@@ -221,3 +221,6 @@ __marimo__/
 
 # Data (downloaded separately from UCI)
 data/
+
+# Editor settings
+.vscode/
